@@ -1,6 +1,6 @@
-# == Class: sysklogd
+# ## Class: sysklogd ##
 #
-# Goodbye, sysklogd
+# This module removes sysklogd if it is present.
 #
 class sysklogd {
 
