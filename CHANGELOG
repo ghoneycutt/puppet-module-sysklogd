@@ -1,2 +1,12 @@
-0.0.1 - 2013-05-17 Garrett Honeycutt <code@garretthoneycutt.com>
+v1.0.0 - 2013-05-24
+
+  Martin Hagstrom
+    f31b1af Martin Hagstrom Cleanup of documentation
+
+  Garrett Honeycutt
+    ccf0e0f Add README with Travis link and enable testing ruby 1.9.3
+    7e52996 Travis-CI support
+    c425524 Add spec test
+
+v0.0.1 - 2013-05-17 Garrett Honeycutt <code@garretthoneycutt.com>
 * Initial release
