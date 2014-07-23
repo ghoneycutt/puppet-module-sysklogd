@@ -1,4 +1,4 @@
-# ## Class: sysklogd ##
+# == Class: sysklogd
 #
 # This module removes sysklogd if it is present.
 #
