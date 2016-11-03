@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "author": "ghoneycutt",
   "summary": "Manages sysklogd",
-  "license": "Apache License, Version 2.0",
+  "license": "Apache-2.0",
   "source": "git://github.com/ghoneycutt/puppet-module-sysklogd.git",
   "project_page": "https://github.com/ghoneycutt/puppet-module-sysklogd",
   "issues_url": "https://github.com/ghoneycutt/puppet-module-sysklogd/issues",
@@ -11,14 +11,8 @@
   "dependencies": [
   ],
   "requirements": [
-    {
-      "name": "pe",
-      "version_requirement": "3.x"
-    },
-    {
-      "name": "puppet",
-      "version_requirement": "3.x"
-    }
+    { "name": "pe", "version_requirement": ">= 3.0.0 < 5.0.0" },
+    { "name": "puppet", "version_requirement": ">= 3.0.0 < 5.0.0" }
   ],
   "operatingsystem_support": [
     {
