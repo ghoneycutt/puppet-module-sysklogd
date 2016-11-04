@@ -1,8 +1,0 @@
-name    'ghoneycutt/sysklogd'
-version '1.0.1'
-source 'git://github.com/ghoneycutt/puppet-module-sysklogd.git'
-author 'ghoneycutt'
-license 'Apache License, Version 2.0'
-summary 'Manages sysklogd'
-description 'By Manage, we mean remove. Needed for EL5 to use a different syslogger.'
-project_page 'https://github.com/ghoneycutt/puppet-module-sysklogd'
