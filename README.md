@@ -13,8 +13,8 @@ This is needed on EL 5 systems to replace sysklogd with another syslogger such a
 
 # Compatibility
 
-This module has been tested to work on the following systems with Puppet
-v3 (with and without the future parser) and v4 with Ruby versions 1.8.7
-(Puppet v3 only), 1.9.3, 2.0.0, 2.1.0 and 2.3.1.
+This module has been tested to work on the following systems with the
+latest Puppet v3, v3 with future parser, v4, v5 and v6.  See `.travis.yml`
+for the exact matrix of supported Puppet and ruby versions.
 
 * EL 5
