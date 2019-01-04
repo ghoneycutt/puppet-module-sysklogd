@@ -1,4 +1,7 @@
-v1.0.1 - 2013-07-23
+### v1.2.0 - 2019-01-03
+  Support Puppet 5 and 6
+
+### v1.0.1 - 2013-07-23
 
   Garrett Honeycutt
     cd30238 Add metadata for the Forge
@@ -12,7 +15,7 @@ v1.0.1 - 2013-07-23
     45fee8f Update license for 2014
     1235dce Do not require rubygems as it is not needed
 
-v1.0.0 - 2013-05-24
+### v1.0.0 - 2013-05-24
 
   Martin Hagstrom
     f31b1af Martin Hagstrom Cleanup of documentation
@@ -22,5 +25,5 @@ v1.0.0 - 2013-05-24
     7e52996 Travis-CI support
     c425524 Add spec test
 
-v0.0.1 - 2013-05-17 Garrett Honeycutt <code@garretthoneycutt.com>
-* Initial release
+### v0.0.1 - 2013-05-17 Garrett Honeycutt <code@garretthoneycutt.com>
+  Initial release
