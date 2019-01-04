@@ -1,5 +1,5 @@
 {
-  "name": "ghoneycutt/sysklogd",
+  "name": "ghoneycutt-sysklogd",
   "version": "1.1.0",
   "author": "ghoneycutt",
   "summary": "Manages sysklogd",
@@ -11,8 +11,7 @@
   "dependencies": [
   ],
   "requirements": [
-    { "name": "pe", "version_requirement": ">= 3.0.0 < 5.0.0" },
-    { "name": "puppet", "version_requirement": ">= 3.0.0 < 5.0.0" }
+    { "name": "puppet", "version_requirement": ">= 3.0.0 < 7.0.0" }
   ],
   "operatingsystem_support": [
     {
